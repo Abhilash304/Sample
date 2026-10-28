@@ -3,5 +3,6 @@ public class f4 {
     {
         System.out.println("Hello world");
         System.out.println("f2.java updated");
+        System.out.println("f3.java updated");
     }
 }
